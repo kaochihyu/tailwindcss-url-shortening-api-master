@@ -1,6 +1,6 @@
 # Frontend Mentor - Shortly URL shortening API Challenge
-Frontend Mentor 短網址 landing page 
-#### 👉 [網站 Demo](https://kaochihyu.github.io/)
+[Frontend Mentor](https://www.frontendmentor.io/challenges) 短網址 landing page 
+#### 👉 [網站 Demo](https://kaochihyu.github.io/tailwindcss-url-shortening-api-master/public/index.html)
 
 ## 專案簡介
 ![Design preview for the Shortly URL shortening API coding challenge](./design/desktop-preview.jpg)
